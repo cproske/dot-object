@@ -2,10 +2,7 @@
 // vim: set filetype=javascript:
 'use strict'
 
-var {
-  globSync,
-  Glob
-} = require('glob')
+var { Glob } = require('glob')
 var fs = require('fs')
 
 /**
